@@ -14,3 +14,4 @@ class Solution:
             prev = roman[letter]
         total += count
         return total
+
