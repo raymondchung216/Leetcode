@@ -17,3 +17,4 @@ class Solution:
                 if (letter,word) not in tupleSet:
                     return False
         return True
+        
